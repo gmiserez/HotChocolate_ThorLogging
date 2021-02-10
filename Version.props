@@ -1,0 +1,11 @@
+<Project>
+
+  <PropertyGroup>
+    <ThorVersion>4.0.0</ThorVersion>
+    <SwissLifeHealthVersion>1.1.3</SwissLifeHealthVersion>
+    <HotChocolateVersion>11.0.9</HotChocolateVersion>
+    <ThorVersion>4.0.0</ThorVersion>
+    <ThorGenVersion>1.3.3</ThorGenVersion>
+  </PropertyGroup>
+
+</Project>

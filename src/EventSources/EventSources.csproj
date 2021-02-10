@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>EventSources</AssemblyName>
+    <RootNamespace>EventSources</RootNamespace>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Thor.Core" Version="$(ThorVersion)" />
+    <PackageReference Include="Thor.Core.Abstractions" Version="$(ThorVersion)" />
+    <PackageReference Include="Thor.Core.Transmission.Abstractions" Version="$(ThorVersion)" />
+    <PackageReference Include="Thor.Generator" Version="$(ThorGenVersion)" />
+  </ItemGroup>
+
+</Project>
